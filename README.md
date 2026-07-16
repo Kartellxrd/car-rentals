@@ -1,6 +1,4 @@
-Here is a complete, production-ready `README.md` (which you can name `car-rental.md` and push directly to GitHub). It is fully formatted with GitHub-flavored Markdown, clean design badges, and structures that will make your repository look highly professional to both investors and tech recruiters.
 
----
 
 # 📑 Lefatshe Fleet SaaS (Enterprise Car Rental Engine)
 
